@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="plugin.video.multimediamaster" name="[I][COLOR=blue]Multimedia[/COLOR] [COLOR=darkorange]Master[/COLOR][/I]" provider-name="TechManiacHD" version="2017.05.09">
+<addons><addon id="plugin.video.multimediamaster" name="[I][COLOR=blue]Multimedia[/COLOR] [COLOR=darkorange]Master[/COLOR][/I]" provider-name="TechManiacHD" version="2017.12.17">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.requests" />
